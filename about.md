@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /about/index.html
 title: About Me
 description: Just a student interested in emerging technology, physics, and philosophy!
