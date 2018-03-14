@@ -8,9 +8,6 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
-    autoprefixer-rails (8.1.0.1)
-      execjs
-    coderay (1.1.2)
     colorator (1.1.0)
     concurrent-ruby (1.0.5)
     em-websocket (0.5.1)
@@ -50,7 +47,6 @@ GEM
       nokogiri (~> 1.8)
       pathutil (~> 0.16)
       sprockets (>= 3.3, < 4.1.beta)
-    jekyll-minibundle (2.2.0)
     jekyll-sanity (1.2.0)
       jekyll (~> 3.1)
     jekyll-sass-converter (1.5.2)
@@ -93,21 +89,17 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    uglifier (4.1.7)
-      execjs (>= 0.3.0, < 3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  autoprefixer-rails
-  coderay
   jekyll
   jekyll-assets
-  jekyll-minibundle
-  rake
-  sass
-  uglifier
+  rake (~> 12)
+
+RUBY VERSION
+   ruby 2.3.6p384
 
 BUNDLED WITH
    1.16.1
