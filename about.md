@@ -8,11 +8,12 @@ image:
   feature: 3374_space.jpg
 ---
 
-### Contact me
+### Contact Me
 
 You can reach me via email at [taylorkmc@gmail.com](mailto:taylorkmc@gmail.com).
 
-[{% icon fa-linkedin %} LinkedIn](http://www.linkedin.com/in/taylorwk)
+[{% icon fa-linkedin %} LinkedIn](http://www.linkedin.com/in/taylorwk)  
+
 [{% icon fa-github %} GitHub](https://github.com/taylorwk)
 
 

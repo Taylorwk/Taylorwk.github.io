@@ -207,7 +207,7 @@ a.footnote:after {
   overflow-x: auto; }
 
 .hilighted {
-  color: #c66b09;
+  color: #085dc6;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   -webkit-transition: all 0.2s ease-in-out;
@@ -232,7 +232,7 @@ p {
   margin-bottom: 32px; }
 
 a, a:visited, a:active {
-  color: #c66b09;
+  color: #085dc6;
   -moz-transition: all 0.25s ease-in-out;
   -o-transition: all 0.25s ease-in-out;
   -webkit-transition: all 0.25s ease-in-out;
@@ -387,7 +387,7 @@ header.site-header .wrap {
   -ms-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out; }
 #bump .darken a:hover {
-  color: #c66b09;
+  color: #085dc6;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   -webkit-transition: all 0.2s ease-in-out;
@@ -398,12 +398,12 @@ header.site-header .wrap {
 #bump .darken nav ul li a {
   color: #a8a8a8; }
 #bump .darken nav ul li a:active {
-  color: #c66b09; }
+  color: #085dc6; }
 #bump .darken nav ul li a:hover {
   text-shadow: none;
-  color: #c66b09; }
+  color: #085dc6; }
 #bump .darken nav ul li.active a {
-  color: #c66b09; }
+  color: #085dc6; }
 
 header.site-header a.menu {
   display: none; }
@@ -717,7 +717,7 @@ header.site-header nav ul li a:hover {
 .post .share {
   color: #a8a8a8; }
 .post .share:hover {
-  color: #c66b09;
+  color: #085dc6;
   border-color: rgba(198, 107, 9, 0.7);
   -moz-transition: all 0.2s ease;
   -o-transition: all 0.2s ease;
@@ -759,7 +759,7 @@ footert footer small {
   bottom: 12px;
   font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
   text-transform: uppercase;
-  color: rgba(168, 168, 168, 0.8); }
+  color: rgba(168, 168, 168, 0.1); }
 footert footer small a {
   color: rgba(168, 168, 168, 0.5); }
 footert footer small a:hover {

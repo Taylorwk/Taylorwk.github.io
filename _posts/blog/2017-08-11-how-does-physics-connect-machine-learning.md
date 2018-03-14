@@ -20,8 +20,6 @@ We then discover how that very same variational principle in physics opens a win
 
 If you have a physics background, I hope you will have a better sense of machine learning and be able to read papers in the field. If you are a machine learner, I hope you will have the context to read a statistical physics paper about mean-field theory and the Ising model.
 
-*If this article is confusing, falls short of these goals, or could be improved in any way please [email me](mailto:altosaar@princeton.edu), [@ me](https://twitter.com/thejaan), or [submit a pull request](https://github.com/altosaar/jaan.io/blob/master/_posts/blog/2017-08-11-how-does-physics-connect-machine-learning.md).*
-
 ### The Ising model, a physics perspective
 
 Consider a lattice of spins that point up or down:
@@ -569,11 +567,6 @@ This post is an attempt at mapping the language from one community to another. A
 - Spins in physics are called random variables in statistics and machine learning.
 - The evidence lower bound in variational inference is the negative free energy in physics terminology.
 
----
-
-*Anything to add or fix in this article to reduce confusion and increase clarity? Please [email me](mailto:altosaar@princeton.edu), [tweet](https://twitter.com/thejaan), or [submit a pull request](https://github.com/altosaar/jaan.io/blob/master/_posts/blog/2017-08-11-how-does-physics-connect-machine-learning.md).*
-
----
 
 ### References
 - [Peterson & Anderson (1987)](http://www.complex-systems.com/pdf/01-5-6.pdf) used solutions to time-dependent Ising models to learn the parameters of Boltzmann machines. This is a canonical reference for the ‘start’ of variational inference as it is known in the machine learning community.
@@ -586,6 +579,6 @@ This post is an attempt at mapping the language from one community to another. A
 - Matthew Beal’s [thesis](http://www.cse.buffalo.edu/faculty/mbeal/thesis/beal03_2.pdf) has interesting references, and Rich Turner has [notes](http://www.gatsby.ucl.ac.uk/~turner/Notes/ContrastiveDivergence/FreeEnergyNotes.pdf) on correspondences between physics and machine learning. 
 
 
-*Thanks to Bohdan Kulchytskyy, Florian Wentzel, Smiti Kaul, Guillaume Verdon, Henri Palacci, Sam Ritter, Mattias Fitzpatrick, and Sophie Kleber for comments and encouragement. Image credits: Freepik for iconography, and Analytical Scientific for the Newton's cradle image.*
+*Image credits: Freepik for iconography, and Analytical Scientific for the Newton's cradle image.*
 
 ### Footnotes
