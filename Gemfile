@@ -3,8 +3,8 @@ ruby RUBY_VERSION
 
 #gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll'
-gem 'jekyll-minibundle'
-gem 'coderay'
+#gem 'jekyll-minibundle'
+#gem 'coderay'
 gem 'rake',"~>12"
 
 group :jekyll_plugins do

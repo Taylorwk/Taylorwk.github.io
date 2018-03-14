@@ -4,7 +4,7 @@ tagline:          Physics student at Princeton.
 description:      Physics student at Princeton.
 logo:             tkm-thumb.png
 #Comment out url when working locally to resolve base urls correctly
-#url: https://taylor.io
+url: https://taylorwk.github.io
 
 
 #plugins 
@@ -72,7 +72,8 @@ permalink:   /:title/
 #   path_to_js: "assets/js/katex.min.js"
 
 #include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+exclude:
+# ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
  - vendor
  - Gemfile
  - Gemfile.lock
