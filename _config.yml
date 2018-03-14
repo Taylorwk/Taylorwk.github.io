@@ -7,6 +7,9 @@ logo:             tkm-thumb.png
 #url: https://taylor.io
 
 
+#plugins 
+plugins:
+  - jekyll-assets
 
 # Owner/author information
 owner:
@@ -70,7 +73,12 @@ permalink:   /:title/
 
 #include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
-
+ - vendor
+ - Gemfile
+ - Gemfile.lock
+ - LICENSE
+ - README.md
+ - Rakefile
 # gems: ['jekyll/minibundle']
 
 maruku:

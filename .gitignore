@@ -6,3 +6,5 @@ _site/*
 *.ipynb_checkpoints
 *.asset-cache
 _layouts/_site/*
+_site
+.jekyll-metadata
