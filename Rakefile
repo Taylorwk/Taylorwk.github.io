@@ -1,4 +1,4 @@
-me: Rakefile
+#filename: Rakefile
 task :default do
   puts "Running CI tasks..."
 
