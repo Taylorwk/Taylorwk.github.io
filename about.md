@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: About Me
-description: Just a student interested in emerging technology, physics, and philosophy!
+description: Just a engineer and researcher interested in emerging technology, physics, and philosophy!
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: 3374_space.jpg
