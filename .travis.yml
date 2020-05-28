@@ -3,6 +3,7 @@ rvm:
 - 2.3.1
 install:
 - bundle install
+- bundle update --bundler
 deploy:
   provider: pages
   skip_cleanup: true
