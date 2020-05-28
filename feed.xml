@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Taylor</title>
+<subtitle type="text">Physics student at Princeton.</subtitle>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="https://taylorwk.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="https://taylorwk.github.io" />
+<updated>2020-05-28T11:25:07-04:00</updated>
+<id>https://taylorwk.github.io/</id>
+<author>
+  <name>Taylor Kulp-McDowall</name>
+  <uri>https://taylorwk.github.io/</uri>
+  <email>taylorwk@princeton.edu</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[The Beginning]]></title>
+  <link rel="alternate" type="text/html" href="https://taylorwk.github.io/the-beginning/" />
+  <id>https://taylorwk.github.io/the-beginning</id>
+  <published>2018-03-14T00:00:00-04:00</published>
+  <updated>2018-03-14T00:00:00-04:00</updated>
+  <author>
+    <name>Taylor Kulp-McDowall</name>
+    <uri>https://taylorwk.github.io</uri>
+    <email>taylorwk@princeton.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;Blogs are new to me. Consider this an intellectual playground that I will need to grow accustom to over the next few posts. I hope to give a short introduction to what you can expect to see here on this blog.  I quite enjoy fields that combine philosophical aspects with scientific ones so many of the topics I cover will relate to these in some form or another.&lt;/p&gt;
+
+&lt;p&gt;Expect posts about AI safety, physics and nanotechnology, biotechnology and bioethics, and perhaps my reflections on my current research. However I also enjoy a dash of policy so also don’t be surprised if you see some musings on nonproliferation or how policitians should deal with specific emerging technologies. As I alluded to before, my first technical post will probably venture into AI safety and value alignment as I have started to delve into that subject more and more over the past couple of weeks.&lt;/p&gt;
+
+&lt;p&gt;If you just can’t wait to learn more about this interesting topic consider looking at Robert Miles’ &lt;a href=&quot;https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg/featured&quot;&gt;Youtube channel&lt;/a&gt;. He goes over a broad number of ideas within AI safety to start you out. But regardless, stay tuned as I will be having more content coming out over the next couple months!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://taylorwk.github.io/the-beginning/&quot;&gt;The Beginning&lt;/a&gt; was originally published by Taylor Kulp-McDowall at &lt;a href=&quot;https://taylorwk.github.io&quot;&gt;Taylor&lt;/a&gt; on March 14, 2018.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Operator Variational Inference]]></title>
+  <link rel="alternate" type="text/html" href="https://taylorwk.github.io/operator-variational-inference/" />
+  <id>https://taylorwk.github.io/operator-variational-inference</id>
+  <published>2016-10-31T00:00:00-04:00</published>
+  <updated>2016-10-31T00:00:00-04:00</updated>
+  <author>
+    <name>Taylor Kulp-McDowall</name>
+    <uri>https://taylorwk.github.io</uri>
+    <email>taylorwk@princeton.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;New divergences for variational inference that make explicit tradeoffs such as computation and performance.&lt;/p&gt;
+
+&lt;p&gt;R. Ranganath, J. Altosaar, D. Tran, D. Blei. Operator Variational Inference. NIPS, 2016.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/papers/2016_Ranganath-Altosaar-Tran-Blei_OperatorVI.pdf&quot;&gt;&lt;i class=&quot;fa fa-file-pdf-o&quot;&gt;&lt;/i&gt; PDF&lt;/a&gt; &lt;a href=&quot;https://github.com/blei-lab/publications/tree/master/2016_RanganathAltosaarTranBlei&quot;&gt;&lt;i class=&quot;fa fa-wrench&quot;&gt;&lt;/i&gt; LaTeX Source&lt;/a&gt; &lt;a href=&quot;https://arxiv.org/abs/1610.09033&quot;&gt;&lt;i class=&quot;fa fa-institution&quot;&gt;&lt;/i&gt; arXiv&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://taylorwk.github.io/operator-variational-inference/&quot;&gt;Operator Variational Inference&lt;/a&gt; was originally published by Taylor Kulp-McDowall at &lt;a href=&quot;https://taylorwk.github.io&quot;&gt;Taylor&lt;/a&gt; on October 31, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Frustrated Spin Ice]]></title>
+  <link rel="alternate" type="text/html" href="https://taylorwk.github.io/spin-ice/" />
+  <id>https://taylorwk.github.io/spin-ice</id>
+  <published>2016-01-01T00:00:00-05:00</published>
+  <updated>2016-01-01T00:00:00-05:00</updated>
+  <author>
+    <name>Taylor Kulp-McDowall</name>
+    <uri>https://taylorwk.github.io</uri>
+    <email>taylorwk@princeton.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;We studied a pyrochloric oxide and showed that it has quantum behavior, which is surprising as it is considered a material with only classical effects. &lt;em&gt;Featured&lt;/em&gt; on the &lt;a href=&quot;https://journals.aps.org/prb/kaleidoscope/prb/93/2/024402&quot;&gt;PRB front page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;P. Henelius, T. Lin, M. Enjalran, Z. Hao, J. Altosaar, P. Henelius, F. Flicker, T. Yavors’kii, and M. J. P. Gingras. Refrustration and Competing Orders in a Spin Ice Material, &lt;a href=&quot;https://journals.aps.org/prb/kaleidoscope/prb/93/2/024402&quot;&gt;Phys. Rev. B. (2016)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/papers/2015_Henelius-Lin-Enjalran-Hao-Rau-Altosaar-Flicker-Yavorskii-Gingras_Refrustration.pdf&quot;&gt;&lt;i class=&quot;fa fa-file-pdf-o&quot;&gt;&lt;/i&gt; PDF&lt;/a&gt; &lt;a href=&quot;http://arxiv.org/abs/1512.05361&quot;&gt;&lt;i class=&quot;fa fa-institution&quot;&gt;&lt;/i&gt; arXiv&lt;/a&gt; &lt;a href=&quot;https://github.com/altosaar/CumulantExpander&quot;&gt;&lt;i class=&quot;fa fa-github&quot;&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://taylorwk.github.io/spin-ice/&quot;&gt;Frustrated Spin Ice&lt;/a&gt; was originally published by Taylor Kulp-McDowall at &lt;a href=&quot;https://taylorwk.github.io&quot;&gt;Taylor&lt;/a&gt; on January 01, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Useful Science]]></title>
+  <link rel="alternate" type="text/html" href="https://taylorwk.github.io/useful-science/" />
+  <id>https://taylorwk.github.io/useful-science</id>
+  <published>2015-11-26T00:00:00-05:00</published>
+  <updated>2015-11-26T00:00:00-05:00</updated>
+  <author>
+    <name>Taylor Kulp-McDowall</name>
+    <uri>https://taylorwk.github.io</uri>
+    <email>taylorwk@princeton.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;One sentence summaries of science to improve your life (incl. &lt;a href=&quot;http://www.usefulscience.org/podcast&quot;&gt;podcast&lt;/a&gt;). Live at &lt;a href=&quot;http://www.usefulscience.org&quot;&gt;usefulscience.org&lt;/a&gt;. I helped write an &lt;a href=&quot;https://theconversation.com/accurate-science-or-accessible-science-in-the-media-why-not-both-59871&quot;&gt;editorial&lt;/a&gt; about our mission.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Featured&lt;/em&gt; on various news websites; ‘received funding’ on CBC Television’s Dragons’ Den (&lt;a href=&quot;https://drive.google.com/file/d/0B1auAcbZIBoTVFRQdFBNQXRDY2s/view?usp=sharing&quot;&gt;link to episode&lt;/a&gt;).&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://taylorwk.github.io/useful-science/&quot;&gt;Useful Science&lt;/a&gt; was originally published by Taylor Kulp-McDowall at &lt;a href=&quot;https://taylorwk.github.io&quot;&gt;Taylor&lt;/a&gt; on November 26, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Correlated LDA]]></title>
+  <link rel="alternate" type="text/html" href="https://taylorwk.github.io/correlated-LDA/" />
+  <id>https://taylorwk.github.io/correlated-LDA</id>
+  <published>2015-09-09T00:00:00-04:00</published>
+  <updated>2015-09-09T00:00:00-04:00</updated>
+  <author>
+    <name>Taylor Kulp-McDowall</name>
+    <uri>https://taylorwk.github.io</uri>
+    <email>taylorwk@princeton.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;Goal: discover how articles in the humanities discuss concepts differently from the sciences.&lt;/p&gt;
+
+&lt;p&gt;Jingwei Zhang, Aaron Gerow, Jaan Altosaar, James Evans, Richard Jean So. Fast, Flexible Models for Discovering Topic Correlation across Weakly-Related Collections, &lt;a href=&quot;https://www.cs.cmu.edu/~ark/EMNLP-2015/index.html&quot;&gt;EMNLP 2015&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/papers/2015_Zhang-Gerow-Altosaar-Evans-So_Correlated-LDA.pdf&quot;&gt;&lt;i class=&quot;fa fa-file-pdf-o&quot;&gt;&lt;/i&gt; PDF&lt;/a&gt; &lt;a href=&quot;http://arxiv.org/abs/1508.04562&quot;&gt;&lt;i class=&quot;fa fa-institution&quot;&gt;&lt;/i&gt; arXiv&lt;/a&gt; &lt;a href=&quot;https://github.com/iceboal/correlated-lda&quot;&gt;&lt;i class=&quot;fa fa-github&quot;&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://taylorwk.github.io/correlated-LDA/&quot;&gt;Correlated LDA&lt;/a&gt; was originally published by Taylor Kulp-McDowall at &lt;a href=&quot;https://taylorwk.github.io&quot;&gt;Taylor&lt;/a&gt; on September 09, 2015.&lt;/p&gt;</content>
+</entry>
+
+</feed>
