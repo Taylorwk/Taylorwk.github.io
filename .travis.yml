@@ -2,8 +2,8 @@ nguage: ruby
 rvm:
 - 2.3.1
 install:
-- bundle install
 - bundle update --bundler
+- bundle install
 deploy:
   provider: pages
   skip_cleanup: true
